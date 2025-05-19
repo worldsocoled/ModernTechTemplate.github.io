@@ -1,7 +1,4 @@
-# Tech Innovators Template 🚀
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/worldsocoled/ModernTechTemplate)
-[![Responsive Design](https://img.shields.io/badge/Responsive-Design-green)](https://worldsocoled.github.io/ModernTechTemplate/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://worldsocoled.github.io/ModernTechTemplate/)
+# Tech Innovators Responsive Design Template 🚀
 
 **Modern Web Template for Technology Companies & Innovators**  
 *"Tech for Tomorrow's Innovators" - Quantum-Powered Device Showcase*
