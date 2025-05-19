@@ -14,7 +14,7 @@
 - Fast Loading Performance
 
 ## 🚀 Live Demo  
-👉 [View Live Deployment](https://worldsocoled.github.io/ModernTechTemplate/) 👈
+👉 [View Live Deployment]([https://worldsocoled.github.io/ModernTechTemplate/](https://worldsocoled.github.io/ModernTechTemplate.github.io/) 👈
 
 ---
 
