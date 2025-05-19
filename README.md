@@ -14,7 +14,7 @@
 - Fast Loading Performance
 
 ## 🚀 Live Demo  
-👉 [View Live Deployment](https://worldsocoled.github.io/tech-innovators-template/) 👈
+👉 [View Live Deployment](https://worldsocoled.github.io/ModernTechTemplate/) 👈
 
 ---
 
