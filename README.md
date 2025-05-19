@@ -1,7 +1,6 @@
 # Tech Innovators Template 🚀
 
-[![GitHub License](https://img.shields.io/github/license/worldsocoled/tech-innovators-template)](https://github.com/worldsocoled/tech-innovators-template)
-[![GitHub Pages Deployment](https://github.com/worldsocoled/tech-innovators-template/actions/workflows/pages.yml/badge.svg)](https://github.com/worldsocoled/tech-innovators-template/actions)
+[![GitHub Pages Deployment](https://github.com/worldsocoled/ModernTechTemplate/actions/workflows/pages.yml/badge.svg)](https://github.com/worldsocoled/tech-innovators-template/actions)
 
 **Modern Web Template for Technology Companies & Innovators**  
 *"Tech for Tomorrow's Innovators" - Quantum-Powered Device Showcase*
