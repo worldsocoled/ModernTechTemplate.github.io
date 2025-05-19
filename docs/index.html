@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NovaTech | Future-Ready Electronics</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        :root {
+            --space-black: #0A0A12;
+            --neon-blue: #00F3FF;
+            --cyber-purple: #6C63FF;
+            --hologram-pink: #FF61F6;
+            --interface-gray: #1A1A24;
+        }
+    </style>
+</head>
+<body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <nav class="cyber-nav">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <span aria-hidden="true">🚀</span>
+                NovaTech
+            </div>
+
+            <div class="nav-group">
+                <ul class="nav-menu">
+                    <li><a href="#products">Products</a></li>
+                    <li><a href="#collections">Collections</a></li>
+                    <li><a href="#tech-specs">Tech Specs</a></li>
+                    <li><a href="#support">Support</a></li>
+                </ul>
+
+                <div class="nav-actions">
+                    <button class="search-toggle" aria-label="Open search">
+                        <span class="search-icon">🔍</span>
+                    </button>
+                    <div class="cart-counter" aria-live="polite">
+                        🛒 <span class="cart-count">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <button class="hamburger" aria-label="Toggle navigation">
+                <div class="hamburger-line"></div>
+                <div class="hamburger-line"></div>
+            </button>
+        </div>
+    </nav>
+
+    <header class="hologram-hero">
+        <div class="hero-content">
+            <h1 class="hero-title">Next-Gen Tech for Tomorrow's Innovators</h1>
+            <p class="hero-subtitle">Experience the future with quantum-powered devices</p>
+            <div class="hero-cta">
+                <a href="#products" class="cta-button">Explore Products</a>
+                <a href="#demo" class="cta-button outline">View Tech Demo</a>
+            </div>
+        </div>
+    </header>
+
+    <main id="main-content">
+        <section class="smart-filters">
+            <h2 class="visually-hidden">Product Filters</h2>
+            <div class="filter-group">
+                <button class="filter-chip active">All Products</button>
+                <button class="filter-chip">Wearables</button>
+                <button class="filter-chip">Smart Home</button>
+                <button class="filter-chip">Robotics</button>
+            </div>
+        </section>
+
+        <section id="products" class="quantum-grid">
+            <h2 class="section-title">Featured Quantum Tech</h2>
+            <div class="grid-container">
+                <article class="product-card" data-id="1" data-category="wearables">
+                    <div class="product-badge">New</div>
+                    <img src="https://thumbs.dreamstime.com/b/pair-smart-glasses-futuristic-design-lying-surface-lenses-glasses-reflect-digital-data-which-323462525.jpg?w=992" alt="NeuralSync Smart Glasses" class="product-image">
+                    <div class="product-info">
+                        <h3 class="product-title">NeuralSync Smart Glasses</h3>
+                        <p class="product-description">AR-enabled vision with neural interface</p>
+                        <div class="product-pricing">
+                            <span class="price">$599</span>
+                            <span class="original-price">$799</span>
+                        </div>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <div class="hologram-viewer"></div>
+    </main>
+
+    <aside class="cyber-cart">
+        <div class="cart-header">
+            <h2>Quantum Cart</h2>
+            <button class="close-cart">&times;</button>
+        </div>
+        <div class="cart-items"></div>
+        <div class="cart-summary">
+            <div class="total">
+                <span>Subtotal:</span>
+                <span class="total-price">$0.00</span>
+            </div>
+            <button class="checkout-button">Secure Checkout</button>
+        </div>
+    </aside>
+
+    <footer class="neon-footer">
+        <div class="footer-grid">
+            <p>Website By: &copy; 2025 WorldSoColed Web Artistry. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js" defer></script>
+</body>
+</html>
